@@ -76,7 +76,7 @@ peer chaincode query -C mychannel -n mycc -c '{"Args":["GetBalance","Bob"]}'
 
 [以太坊入门(二)启动一个测试网络](http://lifegoeson.cn/2022/03/17/以太坊入门(二)启动一个测试网络/)
 
-[以太坊入门(三) 在本地部署remix](http://lifegoeson.cn/2022/03/17/以太坊入门(三) 在本地部署remix/)
+[以太坊入门(三) 在本地部署remix](http://lifegoeson.cn/2022/03/17/以太坊入门(三)在本地部署remix/)
 
 将Ethereum路径下的HTLC合约通过remix部署到以太坊测试网络上。这里我们将测试网络的第一个账户作为Alice的地址，第二个账户作为Bob的地址。三个参数分别是_TOBOB(Bob的地址)，HASHLOCK(key的hash值，我们这里选择htlc作为key，则hashlock为ef8c49cab8ca567b21b21ead803e0ff1238c13ba53ece34349bbd497f9bbb121,这个key的值目前只有Alice知道),TIMEOUT(交易的有效时间,值为1647783730，也是就是截止到2022/03/20 13:42:10)
 
