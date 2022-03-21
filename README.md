@@ -17,7 +17,7 @@ Alice向Bob转1ETH，Bob向Alice转1个HLF上的Token(这里假设1Token与1ETH�
 
 Alice在以太坊上创建一笔交易向Bob转1ETH，这笔交易在特定情况下会完全执行(输入正确的key值)。否则处于半执行状态，即这1ETH既没有在Alice的账户中，也没有在Bob的账户中， 通常由智能合约或多重签名钱包持有资产。当Bob在截至时间之前输入正确的key,那么这1ETH将转入Bob的账户中。
 
-Bob在HLF上创建一笔交易向Alice转1 HLF Token,这笔交易在特定情况下会完全执行(输入正确的key值)。否则处于半执行状态，即这1 HLF Token既没有在Bob的账户中，也没有在Alice的账户中， 通常由智能合约或多重签名钱包持有资产。当Alice在截至时间之前输入正确的key,那么这1ETH将转入Alice的账户中。
+Bob在HLF上创建一笔交易向Alice转1 HLF Token,这笔交易在特定情况下会完全执行(输入正确的key值)。否则处于半执行状态，即这1 HLF Token既没有在Bob的账户中，也没有在Alice的账户中， 通常由智能合约或多重签名钱包持有资产。当Alice在截至时间之前输入正确的key,那么这1 Token将转入Alice的账户中。
 
 ### 部署hlf网络
 
