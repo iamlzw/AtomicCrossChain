@@ -1,7 +1,7 @@
 # AtomicCrossChain
 ### HLF与以太坊之间的原子跨链实现
 
-本文HLF与以太坊之间的原子跨链实现
+本文是HLF与以太坊之间的原子跨链实现
 
 参考https://docs.google.com/presentation/d/1QBP0EbJ94lp2bjRpRqS_CzzvvmY-gOkUNGCTmF7jKsI/edit#slide=id.g57af0cd0aa_2_32
 
